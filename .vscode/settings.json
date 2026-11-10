@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": "explicit" },
+  "files.associations": { "*.css": "tailwindcss" },
+  "tailwindCSS.classFunctions": ["cn", "cva"],
+  "search.exclude": { "**/.next": true, "supabase/.temp": true }
+}
